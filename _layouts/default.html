@@ -10,6 +10,9 @@ layout: parse
     <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
   {%- endif -%}
   {% include head.html %}
+    
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    
   </head>
 
   <!-- Body -->
@@ -25,6 +28,18 @@ layout: parse
 
     <!-- Footer -->
     {%- include footer.html %}
+    
+    <script type="text/javascript">
+        $(function() {
+            $('.search').on('click', function() {
+                // console.log($('#filterName').val());
+                $('li').hide()
+                    .filter(":contains('" + ($('#filterYear').val()||$('#filterName').val()) + "')")
+                    .show();
+            })
+        })
+		
+    </script>
 
     <!-- JavaScripts -->
     {% include scripts/jquery.html %}
