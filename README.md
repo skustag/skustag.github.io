@@ -29,11 +29,11 @@ $ bundle exec jekyll serve
 
 ## Publications
 #### Related files
-`_layouts/publication.html`, `_pages/publication.md`
+`_layouts/publication.html`, `_pages/publication.md`, `_bibliography/papers.bib`
 
 ## Software
 #### Related files
-`_layouts/software.html`, `_pages/software.md`
+`_layouts/software.html`, `_pages/software.md`, `_projects/num_project.md`
 
 ## Sponsors
 #### Related files
