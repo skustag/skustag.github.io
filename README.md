@@ -29,16 +29,16 @@ $ bundle exec jekyll serve
 
 ## Publications
 ### Related files
-`_layouts/people.html`, `_pages/publications.md`
+`_layouts/publication.html`, `_pages/publication.md`
 
 ## Software
 ### Related files
-`_layouts/people.html`, `_pages/software.md`
+`_layouts/software.html`, `_pages/software.md`
 
 ## Sponsors
 ### Related files
-`_layouts/people.html`, `_pages/sponsor.md`
+`_layouts/sponsor.html`, `_pages/sponsor.md`
 
 ## Join Us
 ### Related files
-`_layouts/people.html`, `_pages/joinus.md`
+`_layouts/joinus.html`, `_pages/joinus.md`
