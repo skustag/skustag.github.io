@@ -22,3 +22,23 @@ $ bundle exec jekyll serve
 ## Home
 ### Related files
 `_layouts/about.html`, `_pages/about.md`
+
+## People
+### Related files
+`_layouts/people.html`, `_pages/people.md`
+
+## Publications
+### Related files
+`_layouts/people.html`, `_pages/publications.md`
+
+## Software
+### Related files
+`_layouts/people.html`, `_pages/software.md`
+
+## Sponsors
+### Related files
+`_layouts/people.html`, `_pages/sponsor.md`
+
+## Join Us
+### Related files
+`_layouts/people.html`, `_pages/joinus.md`
