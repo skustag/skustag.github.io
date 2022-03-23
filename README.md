@@ -18,3 +18,7 @@ $ cd <your-repo-name>
 $ bundle install
 $ bundle exec jekyll serve
 ```
+
+## Home
+### Related files
+`_layouts/about.html`, `_pages/about.md`
