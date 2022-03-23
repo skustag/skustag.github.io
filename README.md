@@ -20,25 +20,25 @@ $ bundle exec jekyll serve
 ```
 
 ## Home
-### Related files
+#### Related files
 `_layouts/about.html`, `_pages/about.md`
 
 ## People
-### Related files
+#### Related files
 `_layouts/people.html`, `_pages/people.md`
 
 ## Publications
-### Related files
+#### Related files
 `_layouts/publication.html`, `_pages/publication.md`
 
 ## Software
-### Related files
+#### Related files
 `_layouts/software.html`, `_pages/software.md`
 
 ## Sponsors
-### Related files
+#### Related files
 `_layouts/sponsor.html`, `_pages/sponsor.md`
 
 ## Join Us
-### Related files
+#### Related files
 `_layouts/joinus.html`, `_pages/joinus.md`
