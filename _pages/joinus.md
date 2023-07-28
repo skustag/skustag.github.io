@@ -4,5 +4,5 @@ permalink: /joinus/
 title: joinus
 nav: true
 contact: Contact Info
-stu: Perspective Students
+stu: Prospective Students
 ---
