@@ -1,0 +1,64 @@
+{
+    "Faculty": [
+      {
+        "full_name": "Yu Su",
+        "personal_link": "https://ysu1989.github.io/#",
+        "image": "SuYu.png"
+      },
+      {
+        "full_name": "Jane Doe",
+        "personal_link": "https://example.com/jane-doe",
+        "image": "https://example.com/images/jane-doe.jpg"
+      }
+    ],
+    "PostDocs": [
+      {
+        "full_name": "Michael Johnson",
+        "personal_link": "https://example.com/michael-johnson",
+        "image": "https://example.com/images/michael-johnson.jpg"
+      }
+    ],
+    "PhD_students": [
+      {
+        "full_name": "Emily Brown",
+        "personal_link": "https://example.com/emily-brown",
+        "image": "https://example.com/images/emily-brown.jpg"
+      },
+      {
+        "full_name": "Daniel Lee",
+        "personal_link": "https://example.com/daniel-lee",
+        "image": "https://example.com/images/daniel-lee.jpg"
+      }
+    ],
+    "MS_students": [
+      {
+        "full_name": "Jessica Garcia",
+        "personal_link": "https://example.com/jessica-garcia",
+        "image": "https://example.com/images/jessica-garcia.jpg"
+      }
+    ],
+    "Undergrads": [
+      {
+        "full_name": "Matthew Miller",
+        "personal_link": "https://example.com/matthew-miller",
+        "image": "https://example.com/images/matthew-miller.jpg"
+      },
+      {
+        "full_name": "Olivia Wilson",
+        "personal_link": "https://example.com/olivia-wilson",
+        "image": "https://example.com/images/olivia-wilson.jpg"
+      }
+    ],
+    "Alumni": [
+      {
+        "full_name": "Sarah Clark",
+        "personal_link": "https://example.com/sarah-clark",
+        "image": "https://example.com/images/sarah-clark.jpg"
+      },
+      {
+        "full_name": "Robert Thompson",
+        "personal_link": "https://example.com/robert-thompson",
+        "image": "https://example.com/images/robert-thompson.jpg"
+      }
+    ]
+  }
