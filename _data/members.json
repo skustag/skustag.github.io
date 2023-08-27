@@ -13,22 +13,88 @@
     ],
     "PostDocs": [
       {
-        "full_name": "Michael Johnson",
-        "personal_link": "https://example.com/michael-johnson",
-        "image": "https://example.com/images/michael-johnson.jpg"
+        "full_name": "Dipanjyoti Paul",
+        "personal_link": "https://scholar.google.co.in/citations?user=AwOcRTAAAAAJ&hl=en",
+        "image": "Dipanjyoti Paul-modified.png"
       }
     ],
     "PhD_students": [
       {
-        "full_name": "Emily Brown",
-        "personal_link": "https://example.com/emily-brown",
-        "image": "https://example.com/images/emily-brown.jpg"
+        "full_name": "Boshi Wang",
+        "personal_link": "https://boshi-wang.github.io/",
+        "image": "Boshi Wang-modified.png"
       },
       {
-        "full_name": "Daniel Lee",
-        "personal_link": "https://example.com/daniel-lee",
-        "image": "https://example.com/images/daniel-lee.jpg"
+        "full_name": "Botao Yu",
+        "personal_link": "https://btyu.github.io/",
+        "image": "Botao Yu-modified.png"
+      },
+      {
+        "full_name": "Boyuan Zheng",
+        "personal_link": "https://boyuanzheng010.github.io/",
+        "image": "Boyuan Zheng-modified.png"
+      },
+      {
+        "full_name": "Harsh Kohli",
+        "personal_link": "https://harshkohli.github.io//",
+        "image": "Harsh Kohli-modified.png"
+      },
+      {
+        "full_name": "Kai Zhang",
+        "personal_link": "https://drogozhang.github.io/",
+        "image": "Kai Zhang-modified.png"
+      },
+      {
+        "full_name": "Lingbo Mo",
+        "personal_link": "https://molingbo.github.io/",
+        "image": "Lingbo Mo-modified.png"
+      },
+      {
+        "full_name": "Luke Song",
+        "personal_link": "https://chanh.ee/",
+        "image": "Luke Song-modified.png"
+      },
+      {
+        "full_name": "Ron Chen",
+        "personal_link": "https://ronch99.github.io/",
+        "image": "Ron Chen-modified.png"
+      },
+      {
+        "full_name": "Sam Stevens",
+        "personal_link": "https://samuelstevens.me/",
+        "image": "Sam Stevens-modified.png"
+      },
+      {
+        "full_name": "Shijie Chen",
+        "personal_link": "https://chensj98.github.io/",
+        "image": "Shijie Chen-modified.png"
+      },
+      {
+        "full_name": "Tianshu Zhang",
+        "personal_link": "https://twitter.com/Tianshu_OSU",
+        "image": "Tianshu Zhang-modified.png"
+      },
+      {
+        "full_name": "Vardaan Pahuja",
+        "personal_link": "https://vardaan123.github.io/",
+        "image": "Vardaan Pahuja-modified.png"
+      },
+      {
+        "full_name": "Yiheng Shu",
+        "personal_link": "https://yihengshu.github.io/",
+        "image": "Yiheng Shu-modified.png"
+      },
+      {
+        "full_name": "Yu Gu",
+        "personal_link": "https://entslscheia.github.io/",
+        "image": "Yu Gu-modified.png"
+      },
+      {
+        "full_name": "Zeyi Liao",
+        "personal_link": "#",
+        "image": "Zeyi Liao-modified.png"
       }
+      
     ],
     "MS_students": [
       {
