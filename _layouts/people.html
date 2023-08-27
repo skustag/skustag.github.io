@@ -15,9 +15,10 @@ layout: default
 	  <div>
       <img src="../assets/img/people/{{member.image}}" alt="ImageNotFound"></div>
       <div class="container">
-	    <p></p>
-        <p style="text-align: center; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a></p>
-        <!--<i class="fab fa-twitter"></i>&nbsp;&nbsp;<i class="fas fa-envelope"></i> -->
+	    
+        <p style="text-align: center; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a> <br>
+        <a href="{{member.twitter}}"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;<a href="mailto:{{member.email}}"><i class="fas fa-envelope"></i></a>
+        </p>
       </div>
     </div>
   </div>
@@ -25,25 +26,6 @@ layout: default
 
 </div>
 
-  <p style="color:rgb(123,36,28); font-size:25px; font-weight:bold">{{ page.postdocs }}</p>
-
-  <div class="row">
-
-    {% for member in site.data.members.PostDocs %}
-    <div class="column">
-      <div  align="center">
-      <div>
-        <img src="../assets/img/people/{{member.image}}" alt="ImageNotFound"></div>
-        <div class="container">
-        <p></p>
-          <p style="text-align: center; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a></p>
-          <!--<i class="fab fa-twitter"></i>&nbsp;&nbsp;<i class="fas fa-envelope"></i> -->
-        </div>
-      </div>
-    </div>
-   {% endfor %}   
-  
-  </div>
   
   <p style="color:rgb(123,36,28); font-size:25px; font-weight:bold">{{ page.phd }}</p>
 
@@ -55,8 +37,8 @@ layout: default
       <div>
         <img src="../assets/img/people/{{member.image}}" alt="ImageNotFound"></div>
         <div class="container">
-        <p></p>
-          <p style="text-align: center; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a></p>
+          <p style="text-align: center; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a> <br>
+            <a href="{{member.twitter}}"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;<a href="mailto:{{member.email}}"><i class="fas fa-envelope"></i></a>
         </div>
       </div>
     </div>
@@ -104,26 +86,25 @@ layout: default
    {% endfor %}   
   
   </div>
+
+-->
   
   <p style="color:rgb(123,36,28); font-size:25px; font-weight:bold">{{ page.alumni }}</p>
 
   <div class="row">
-
+    <ul>
     {% for member in site.data.members.Alumni %}
-    <div class="column">
-      <div  align="center">
+    <li>
       <div>
-        <img src="../assets/img/people/{{member.image}}" alt="ImageNotFound"></div>
-        <div class="container">
-        <p></p>
-          <p style="text-align: center; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a></p>
-        </div>
+          <p style="text-align: left; font-size:16px"> <a href="{{ member.personal_link }}">{{ member.full_name }}</a>
+           {{member.position}} </p>
+   
       </div>
-    </div>
+  </li>
    {% endfor %}   
-  
+  </ul>
   </div>
-  -->
+
   
 
 </div>

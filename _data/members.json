@@ -3,96 +3,132 @@
       {
         "full_name": "Yu Su",
         "personal_link": "https://ysu1989.github.io/#",
-        "image": "Yu Su.png"
+        "image": "Yu Su.png",
+        "email": "su.809@osu.edu",
+        "twitter": "https://twitter.com/ysu_nlp"
       },
       {
         "full_name": "Huan Sun",
         "personal_link": "https://web.cse.ohio-state.edu/~sun.397/",
-        "image": "Huan Sun.png"
+        "image": "Huan Sun.png",
+        "email": "sun.397@osu.edu",
+        "twitter": "https://twitter.com/hhsun1"
       }
     ],
     "PostDocs": [
       {
         "full_name": "Dipanjyoti Paul",
         "personal_link": "https://scholar.google.co.in/citations?user=AwOcRTAAAAAJ&hl=en",
-        "image": "Dipanjyoti Paul-modified.png"
+        "image": "Dipanjyoti Paul-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
     ],
     "PhD_students": [
       {
         "full_name": "Boshi Wang",
         "personal_link": "https://boshi-wang.github.io/",
-        "image": "Boshi Wang-modified.png"
+        "image": "Boshi Wang-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Botao Yu",
         "personal_link": "https://btyu.github.io/",
-        "image": "Botao Yu-modified.png"
+        "image": "Botao Yu-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Boyuan Zheng",
         "personal_link": "https://boyuanzheng010.github.io/",
-        "image": "Boyuan Zheng-modified.png"
+        "image": "Boyuan Zheng-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Harsh Kohli",
         "personal_link": "https://harshkohli.github.io//",
-        "image": "Harsh Kohli-modified.png"
+        "image": "Harsh Kohli-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Kai Zhang",
         "personal_link": "https://drogozhang.github.io/",
-        "image": "Kai Zhang-modified.png"
+        "image": "Kai Zhang-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Lingbo Mo",
         "personal_link": "https://molingbo.github.io/",
-        "image": "Lingbo Mo-modified.png"
+        "image": "Lingbo Mo-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Luke Song",
         "personal_link": "https://chanh.ee/",
-        "image": "Luke Song-modified.png"
+        "image": "Luke Song-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Ron Chen",
         "personal_link": "https://ronch99.github.io/",
-        "image": "Ron Chen-modified.png"
+        "image": "Ron Chen-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Sam Stevens",
         "personal_link": "https://samuelstevens.me/",
-        "image": "Sam Stevens-modified.png"
+        "image": "Sam Stevens-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Shijie Chen",
         "personal_link": "https://chensj98.github.io/",
-        "image": "Shijie Chen-modified.png"
+        "image": "Shijie Chen-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Tianshu Zhang",
         "personal_link": "https://twitter.com/Tianshu_OSU",
-        "image": "Tianshu Zhang-modified.png"
+        "image": "Tianshu Zhang-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Vardaan Pahuja",
         "personal_link": "https://vardaan123.github.io/",
-        "image": "Vardaan Pahuja-modified.png"
+        "image": "Vardaan Pahuja-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Yiheng Shu",
         "personal_link": "https://yihengshu.github.io/",
-        "image": "Yiheng Shu-modified.png"
+        "image": "Yiheng Shu-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Yu Gu",
         "personal_link": "https://entslscheia.github.io/",
-        "image": "Yu Gu-modified.png"
+        "image": "Yu Gu-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Zeyi Liao",
         "personal_link": "#",
-        "image": "Zeyi Liao-modified.png"
+        "image": "Zeyi Liao-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
       
     ],
@@ -100,31 +136,37 @@
       {
         "full_name": "Jessica Garcia",
         "personal_link": "https://example.com/jessica-garcia",
-        "image": "https://example.com/images/jessica-garcia.jpg"
+        "image": "https://example.com/images/jessica-garcia.jpg",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
     ],
     "Undergrads": [
       {
         "full_name": "Matthew Miller",
         "personal_link": "https://example.com/matthew-miller",
-        "image": "https://example.com/images/matthew-miller.jpg"
+        "image": "https://example.com/images/matthew-miller.jpg",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Olivia Wilson",
         "personal_link": "https://example.com/olivia-wilson",
-        "image": "https://example.com/images/olivia-wilson.jpg"
+        "image": "https://example.com/images/olivia-wilson.jpg",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
     ],
     "Alumni": [
       {
         "full_name": "Sarah Clark",
         "personal_link": "https://example.com/sarah-clark",
-        "image": "https://example.com/images/sarah-clark.jpg"
+        "position": "Professor at _____"
       },
       {
         "full_name": "Robert Thompson",
         "personal_link": "https://example.com/robert-thompson",
-        "image": "https://example.com/images/robert-thompson.jpg"
+        "position": "Researcher at _____"
       }
     ]
   }
