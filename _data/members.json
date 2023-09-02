@@ -20,105 +20,143 @@
         "full_name": "Dipanjyoti Paul",
         "personal_link": "https://scholar.google.co.in/citations?user=AwOcRTAAAAAJ&hl=en",
         "image": "Dipanjyoti Paul-modified.png",
-        "email": "yu.su@example.com",
-        "twitter": "@YuSu"
+        "email": "example@example.com",
+        "twitter": "https://twitter.com/ysu_nlp"
       }
     ],
     "PhD_students": [
       {
         "full_name": "Yu Gu",
         "personal_link": "https://entslscheia.github.io/",
-        "image": "Yu Gu-modified.png"
+        "image": "Yu Gu-modified.png",
+        "email": "gu.826@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/yugu_nlp"
       },
       {
         "full_name": "Bernal Jiménez Gutiérrez",
         "personal_link": "https://bernaljg.github.io/",
-        "image": "Bernal Jiménez Gutiérrez-modified.png"
+        "image": "Bernal Jiménez Gutiérrez-modified.png",
+        "email": "jimenezgutierrez.1@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/bernaaaljg"
       },
       {
         "full_name": "Vardaan Pahuja",
         "personal_link": "https://vardaan123.github.io/",
-        "image": "Vardaan Pahuja-modified.png"
+        "image": "Vardaan Pahuja-modified.png",
+        "email": "pahuja.9@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/vardaanpahuja"
       },
       {
         "full_name": "Lingbo Mo",
         "personal_link": "https://molingbo.github.io/",
-        "image": "Lingbo Mo-modified.png"
+        "image": "Lingbo Mo-modified.png",
+        "email": "mo.169@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/LingboMo"
       },
       {
         "full_name": "Chan Hee (Luke) Song",
         "personal_link": "https://chanh.ee/",
-        "image": "Luke Song-modified.png"
+        "image": "Luke Song-modified.png",
+        "email": "song.1855@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/luke_ch_song"
       },
       {
         "full_name": "Boshi Wang",
         "personal_link": "https://boshi-wang.github.io/",
-        "image": "Boshi Wang-modified.png"
+        "image": "Boshi Wang-modified.png",
+        "email": "wang.13930@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/BoshiWang2"
       },
       {
         "full_name": "Shijie Chen",
         "personal_link": "https://chensj98.github.io/",
-        "image": "Shijie Chen-modified.png"
+        "image": "Shijie Chen-modified.png",
+        "email": "chen.10216@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/ShijieChen98"
       },
       {
         "full_name": "Sam Stevens",
         "personal_link": "https://samuelstevens.me/",
-        "image": "Sam Stevens-modified.png"
+        "image": "Sam Stevens-modified.png",
+        "email": "stevens.994@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/samstevens6860"
       },
       {
         "full_name": "Tianshu Zhang",
         "personal_link": "https://twitter.com/Tianshu_OSU",
-        "image": "Tianshu Zhang-modified.png"
+        "image": "Tianshu Zhang-modified.png",
+        "email": "zhang.11535@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/Tianshu_OSU"
       },
       {
         "full_name": "Kai Zhang",
         "personal_link": "https://drogozhang.github.io/",
-        "image": "Kai Zhang-modified.png"
+        "image": "Kai Zhang-modified.png",
+        "email": "zhang.13253@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/DrogoKhal4"
       },
       {
         "full_name": "Ron Chen",
         "personal_link": "https://ronch99.github.io/",
-        "image": "Ron Chen-modified.png"
+        "image": "Ron Chen-modified.png",
+        "email": "chen.8336@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/RonZiruChen"
       },
       {
         "full_name": "Harsh Kohli",
         "personal_link": "https://harshkohli.github.io//",
-        "image": "Harsh Kohli-modified.png"
+        "image": "Harsh Kohli-modified.png",
+        "email": "kohli.120@buckeyemail.osu.edu",
+        "twitter": "#"
       },
       {
         "full_name": "Jiaman (Lisa) Wu",
         "personal_link": "#",
-        "image": "placeholder.png"
+        "image": "placeholder.png",
+        "email": "wu.5686@buckeyemail.osu.edu",
+        "twitter": "#"
       },
       {
         "full_name": "Jaylen Jones",
         "personal_link": "https://www.linkedin.com/in/jaylen--jones/",
-        "image": "Jaylen Jones-modified.png"
+        "image": "Jaylen Jones-modified.png",
+        "email": "jones.6278@buckeyemail.osu.edu",
+        "twitter": "#"
       },
       {
         "full_name": "Boyuan Zheng",
         "personal_link": "https://boyuanzheng010.github.io/",
-        "image": "Boyuan Zheng-modified.png"
+        "image": "Boyuan Zheng-modified.png",
+        "email": "zheng.2372@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/boyuan__zheng"
       },
       {
         "full_name": "Yiheng Shu",
         "personal_link": "https://yihengshu.github.io/",
-        "image": "Yiheng Shu-modified.png"
+        "image": "Yiheng Shu-modified.png",
+        "email": "shu.251@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/YihengShu"
       },
       {
         "full_name": "Yifei Li",
         "personal_link": "https://flyhero99.github.io/",
-        "image": "Yifei Li-modified.png"
+        "image": "Yifei Li-modified.png",
+        "email": "li.14042@buckeyemail.osu.edu",
+        "twitter": "#"
       },
       {
         "full_name": "Botao Yu",
         "personal_link": "https://btyu.github.io/",
-        "image": "Botao Yu-modified.png"
+        "image": "Botao Yu-modified.png",
+        "email": "yu.3737@buckeyemail.osu.edu",
+        "twitter": "https://twitter.com/BotaoYu24"
       },
       {
         "full_name": "Zeyi Liao",
         "personal_link": "#",
-        "image": "Zeyi Liao-modified.png"
+        "image": "Zeyi Liao-modified.png",
+        "email": "liao.629@buckeyemail.osu.edu",
+        "twitter": "#"
       }
       
     ],
