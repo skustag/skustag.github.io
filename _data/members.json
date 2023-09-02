@@ -20,59 +20,14 @@
     ],
     "PhD_students": [
       {
-        "full_name": "Boshi Wang",
-        "personal_link": "https://boshi-wang.github.io/",
-        "image": "Boshi Wang-modified.png"
+        "full_name": "Yu Gu",
+        "personal_link": "https://entslscheia.github.io/",
+        "image": "Yu Gu-modified.png"
       },
       {
-        "full_name": "Botao Yu",
-        "personal_link": "https://btyu.github.io/",
-        "image": "Botao Yu-modified.png"
-      },
-      {
-        "full_name": "Boyuan Zheng",
-        "personal_link": "https://boyuanzheng010.github.io/",
-        "image": "Boyuan Zheng-modified.png"
-      },
-      {
-        "full_name": "Harsh Kohli",
-        "personal_link": "https://harshkohli.github.io//",
-        "image": "Harsh Kohli-modified.png"
-      },
-      {
-        "full_name": "Kai Zhang",
-        "personal_link": "https://drogozhang.github.io/",
-        "image": "Kai Zhang-modified.png"
-      },
-      {
-        "full_name": "Lingbo Mo",
-        "personal_link": "https://molingbo.github.io/",
-        "image": "Lingbo Mo-modified.png"
-      },
-      {
-        "full_name": "Luke Song",
-        "personal_link": "https://chanh.ee/",
-        "image": "Luke Song-modified.png"
-      },
-      {
-        "full_name": "Ron Chen",
-        "personal_link": "https://ronch99.github.io/",
-        "image": "Ron Chen-modified.png"
-      },
-      {
-        "full_name": "Sam Stevens",
-        "personal_link": "https://samuelstevens.me/",
-        "image": "Sam Stevens-modified.png"
-      },
-      {
-        "full_name": "Shijie Chen",
-        "personal_link": "https://chensj98.github.io/",
-        "image": "Shijie Chen-modified.png"
-      },
-      {
-        "full_name": "Tianshu Zhang",
-        "personal_link": "https://twitter.com/Tianshu_OSU",
-        "image": "Tianshu Zhang-modified.png"
+        "full_name": "Bernal Jiménez Gutiérrez",
+        "personal_link": "https://bernaljg.github.io/",
+        "image": "Bernal Jiménez Gutiérrez-modified.png"
       },
       {
         "full_name": "Vardaan Pahuja",
@@ -80,14 +35,79 @@
         "image": "Vardaan Pahuja-modified.png"
       },
       {
+        "full_name": "Lingbo Mo",
+        "personal_link": "https://molingbo.github.io/",
+        "image": "Lingbo Mo-modified.png"
+      },
+      {
+        "full_name": "Chan Hee (Luke) Song",
+        "personal_link": "https://chanh.ee/",
+        "image": "Luke Song-modified.png"
+      },
+      {
+        "full_name": "Boshi Wang",
+        "personal_link": "https://boshi-wang.github.io/",
+        "image": "Boshi Wang-modified.png"
+      },
+      {
+        "full_name": "Shijie Chen",
+        "personal_link": "https://chensj98.github.io/",
+        "image": "Shijie Chen-modified.png"
+      },
+      {
+        "full_name": "Sam Stevens",
+        "personal_link": "https://samuelstevens.me/",
+        "image": "Sam Stevens-modified.png"
+      },
+      {
+        "full_name": "Tianshu Zhang",
+        "personal_link": "https://twitter.com/Tianshu_OSU",
+        "image": "Tianshu Zhang-modified.png"
+      },
+      {
+        "full_name": "Kai Zhang",
+        "personal_link": "https://drogozhang.github.io/",
+        "image": "Kai Zhang-modified.png"
+      },
+      {
+        "full_name": "Ron Chen",
+        "personal_link": "https://ronch99.github.io/",
+        "image": "Ron Chen-modified.png"
+      },
+      {
+        "full_name": "Harsh Kohli",
+        "personal_link": "https://harshkohli.github.io//",
+        "image": "Harsh Kohli-modified.png"
+      },
+      {
+        "full_name": "Jiaman (Lisa) Wu",
+        "personal_link": "#",
+        "image": "placeholder.png"
+      },
+      {
+        "full_name": "Jaylen Jones",
+        "personal_link": "https://www.linkedin.com/in/jaylen--jones/",
+        "image": "Jaylen Jones-modified.png"
+      },
+      {
+        "full_name": "Boyuan Zheng",
+        "personal_link": "https://boyuanzheng010.github.io/",
+        "image": "Boyuan Zheng-modified.png"
+      },
+      {
         "full_name": "Yiheng Shu",
         "personal_link": "https://yihengshu.github.io/",
         "image": "Yiheng Shu-modified.png"
       },
       {
-        "full_name": "Yu Gu",
-        "personal_link": "https://entslscheia.github.io/",
-        "image": "Yu Gu-modified.png"
+        "full_name": "Yifei Li",
+        "personal_link": "https://flyhero99.github.io/",
+        "image": "Yifei Li-modified.png"
+      },
+      {
+        "full_name": "Botao Yu",
+        "personal_link": "https://btyu.github.io/",
+        "image": "Botao Yu-modified.png"
       },
       {
         "full_name": "Zeyi Liao",
