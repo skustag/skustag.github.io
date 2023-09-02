@@ -3,19 +3,25 @@
       {
         "full_name": "Yu Su",
         "personal_link": "https://ysu1989.github.io/#",
-        "image": "Yu Su.png"
+        "image": "Yu Su.png",
+        "email": "su.809@osu.edu",
+        "twitter": "https://twitter.com/ysu_nlp"
       },
       {
         "full_name": "Huan Sun",
         "personal_link": "https://web.cse.ohio-state.edu/~sun.397/",
-        "image": "Huan Sun.png"
+        "image": "Huan Sun.png",
+        "email": "sun.397@osu.edu",
+        "twitter": "https://twitter.com/hhsun1"
       }
     ],
     "PostDocs": [
       {
         "full_name": "Dipanjyoti Paul",
         "personal_link": "https://scholar.google.co.in/citations?user=AwOcRTAAAAAJ&hl=en",
-        "image": "Dipanjyoti Paul-modified.png"
+        "image": "Dipanjyoti Paul-modified.png",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
     ],
     "PhD_students": [
@@ -120,31 +126,37 @@
       {
         "full_name": "Jessica Garcia",
         "personal_link": "https://example.com/jessica-garcia",
-        "image": "https://example.com/images/jessica-garcia.jpg"
+        "image": "https://example.com/images/jessica-garcia.jpg",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
     ],
     "Undergrads": [
       {
         "full_name": "Matthew Miller",
         "personal_link": "https://example.com/matthew-miller",
-        "image": "https://example.com/images/matthew-miller.jpg"
+        "image": "https://example.com/images/matthew-miller.jpg",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       },
       {
         "full_name": "Olivia Wilson",
         "personal_link": "https://example.com/olivia-wilson",
-        "image": "https://example.com/images/olivia-wilson.jpg"
+        "image": "https://example.com/images/olivia-wilson.jpg",
+        "email": "yu.su@example.com",
+        "twitter": "@YuSu"
       }
     ],
     "Alumni": [
       {
         "full_name": "Sarah Clark",
         "personal_link": "https://example.com/sarah-clark",
-        "image": "https://example.com/images/sarah-clark.jpg"
+        "position": "Professor at _____"
       },
       {
         "full_name": "Robert Thompson",
         "personal_link": "https://example.com/robert-thompson",
-        "image": "https://example.com/images/robert-thompson.jpg"
+        "position": "Researcher at _____"
       }
     ]
   }
