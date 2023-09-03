@@ -32,7 +32,7 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title"> <a href="{{ entry.pdf }}">{{entry.title}}</a></div>
+      <div class="title"> <a href="{{ entry.url }}">{{entry.title}}</a></div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
@@ -86,15 +86,22 @@
       <div class="periodical">
       {% if entry.type == "article" %}
         <em>{{entry.journal}}</em>
+        {% if entry.year %}
+          {{entry.year}}
+        {% endif %}
       {% elsif entry.type == "inproceedings" %}
+        {% if entry.booktitle %}
         <em>In {{entry.booktitle}}</em>
+        {% else if entry.year %}
+        <em> {{entry.year}} </em>
+        {% endif %}
       {% endif %}
       {% if entry.month %}
         {{entry.month | capitalize}}
       {% endif %}
-      {% if entry.year %}
+      <!--{% if entry.year %}
         {{entry.year}}
-      {% endif %}
+      {% endif %} -->
       </div>
     {% endif %}
 
