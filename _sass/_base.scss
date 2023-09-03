@@ -392,12 +392,6 @@ footer.sticky-bottom {
 
 .publications {
   margin-top: 2rem;
-  margin-left: 10%;
-  margin-right: 10%;
-  .preprints {
-    margin-left: 5%;
-    width: 100%;
-  }
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -411,9 +405,6 @@ footer.sticky-bottom {
       font-size: 1rem;
     }
   }
-  //h2.year {
-    //color:rgb(123,36,28); font-size:20px; font-weight:bold
-  //}
 
   h2.year {
     color: #828282;
@@ -452,8 +443,16 @@ footer.sticky-bottom {
           }
         }
         .award {
+          margin: 0.5rem;
+          margin-left: 0rem;
           color: var(--global-theme-color) !important;
+          padding-left: 0.5rem;
+          padding-right: 0.5rem;
+          border-style: groove;
           border: 1px solid var(--global-theme-color);
+          border-radius: 0.5rem;
+          font-weight: bolder;
+          font-size: 0.8em;
         }
       }
       .title {
