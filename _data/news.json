@@ -1,0 +1,28 @@
+{
+    "news": [
+      {
+        "date": "Dec 2022",
+        "content": "Congratulations to Zhen Wang for a successful Ph.D. defense and for a postdoc position jointly hosted by UCSD/MBZUAI/CMU."
+      },
+      {
+        "date": "Nov 2022",
+        "content": "Congratulations to Xiang Deng for winning the prestigious Presidential Fellowship (Only 1 in CSE in 2022)! “The Presidential Fellowship is the most prestigious award given by the Graduate School. Recipients of this award embody the highest standards of scholarship in the full range of Ohio State’s graduate programs.”"
+      },
+      {
+        "date": "June 2022",
+        "content": "OSU TacoBot team earned <span style=\"color: #FF3636;\">the third-place honor</span> ($50K) in the first Alexa Prize TaskBot Challenge! 10 teams were selected worldwide out of 125 initiated applications to participate in the challenge in May 2021 and 5 teams were selected into finals in April 2022. We are the only US team in the top-3 performers! Check out our <a href=\"https://sunlab-osu.github.io/tacobot/\">project website</a> here."
+      },
+      {
+        "date": "April 2022",
+        "content": "Congratulations to Undergraduate Ron Chen for winning the University Fellowship and joining OSU NLP group as a Ph.D. student!"
+      },
+      {
+        "date": "March 2022",
+        "content": "Congratulations to Ron Chen and Zhen Wang for winning the annual Undergraduate Research Award and Graduate Research Award in CSE, respectively!"
+      },
+      {
+        "date": "Jan 2022",
+        "content": "Congratulations to Xiang Deng and Xiang Yue for winning the <span style=\"color: #ff0000;\">SIGMOD Research Highlight Award</span> and the <span style=\"color: #ff0000;\">IEEE BIBM Best Paper Award</span>, respectively!"
+      }
+    ]
+  }

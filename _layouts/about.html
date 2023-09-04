@@ -8,63 +8,90 @@ layout: default
 <!-- <div style="position:relative;">
 <span style="position:absolute;left:25%;top:55%;font-weight:bold;color:white;font-size:50px;letter-spacing:5px;font-family:Verdana, sans-serif">NLP Group @ OSU</span>
 </div> -->
-<div id="post">
-<div id="carouselExampleIndicators" style= "width: 50%; padding-top: 3%; margin-left: 25%;" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
-    </li><li data-target="#carouselExampleIndicators" data-slide-to="1" class="">
-    </li><li data-target="#carouselExampleIndicators" data-slide-to="2" class="">
-    </li><li data-target="#carouselExampleIndicators" data-slide-to="3" class="">
-    </li><li data-target="#carouselExampleIndicators" data-slide-to="4" class="">
-    </li><li data-target="#carouselExampleIndicators" data-slide-to="5" class="">
-  </li></ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="../assets/img/AI-pose.jpg" alt="First photo">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/group-photo-2.jpg" alt="Second photo">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/osu-nlp-2022Fall.jpeg" alt="Third photo">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/102021-botanicgarden.png" alt="Fourth photo">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/2021-Ziyu-graduating-2.jpg" alt="Fifth photo">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="../assets/img/2020-Bernhard-LeavingOSU.jpg" alt="Sixth photo">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true" style="width: 70px; height: 70px"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true" style="width: 70px; height: 70px"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-</div>
-</div>
+
 <p></p>
 
   <div class="container  mt-5">
+
+    <header class="post-header">
+      <h1 class="post-title">
+        Welcome to the NLP Group@OSU
+      </h1>
+       <p class="desc"></p>
+    </header>
   <article>
-    {% if page.profile %}
-    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-	
-	<a class="twitter-timeline" data-height="400" href="https://twitter.com/osunlp">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-     
-    </div>
-    {% endif %}
 
     <div class="clearfix">
-	  <p style="color:rgb(123,36,28); font-size:35px; font-weight:bold">Welcome to the NLP Group@OSU</p>
-      {{ content }}
+      <p style="text-align:justify; text-justify:inter-ideograph; font-family: Roboto; margin-top: 3rem;">
+        Our group’s research interests broadly lie in Natural Language Processing, Data Mining, and Artificial Intelligence, with emphasis on various kinds of question answering systems, natural language interfaces, network analysis, and human behavior understanding.
+        
+        We aim to develop advanced computational frameworks that enable users to easily query big data, write compute programs, collaborate with each other, and acquire knowledge for decision making in various domains such as healthcare, education, and business. Please check out the code/data we have released!
+        </p>
+
+        <div id="carouselExampleIndicators" style= "width: 100%; padding-top: 3%; padding-bottom: 3%;" class="carousel slide" data-ride="carousel">
+          <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">
+            </li><li data-target="#carouselExampleIndicators" data-slide-to="1" class="">
+            </li><li data-target="#carouselExampleIndicators" data-slide-to="2" class="">
+            </li><li data-target="#carouselExampleIndicators" data-slide-to="3" class="">
+            </li><li data-target="#carouselExampleIndicators" data-slide-to="4" class="">
+            </li><li data-target="#carouselExampleIndicators" data-slide-to="5" class="">
+          </li></ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img class="d-block w-100" src="../assets/img/AI-pose.jpg" alt="First photo">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="../assets/img/group-photo-2.jpg" alt="Second photo">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="../assets/img/osu-nlp-2022Fall.jpeg" alt="Third photo">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="../assets/img/102021-botanicgarden.png" alt="Fourth photo">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="../assets/img/2021-Ziyu-graduating-2.jpg" alt="Fifth photo">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="../assets/img/2020-Bernhard-LeavingOSU.jpg" alt="Sixth photo">
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true" style="width: 70px; height: 70px"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true" style="width: 70px; height: 70px"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
+
+        {{content}}
     </div>
+
+
+    <div class="news">
+      <h2>News</h2>
+        <div class="table-responsive">
+          <table class="table table-sm table-borderless">
+          
+            <tbody>
+              {% for element in site.data.news.news %}
+            <tr>
+              <th scope="row">{{element.date}}</th>
+              <td>
+                  {{element.content}}
+              </td>
+            </tr>
+             {% endfor %}
+          
+          </tbody></table>
+        </div>
+      
+    </div>
+
+
 
     {% if page.social %}
     <div class="social">
