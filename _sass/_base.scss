@@ -214,14 +214,21 @@ blockquote {
 
 // News
 
-.news table td {
-  font-size: 1rem;
-  color: var(--global-text-color);
-}
+.news table {
 
-.news table th {
-  color: var(--global-text-color);
-}
+  display: block;
+  height: 400px;
+  overflow-y: auto;
+
+  td {
+  font-size: 1rem;
+    color: var(--global-text-color);
+  }
+
+  th {
+    color: var(--global-text-color);
+  }
+} 
 
 // Social (bottom)
 
@@ -443,16 +450,16 @@ footer.sticky-bottom {
           }
         }
         .award {
-          margin: 0.5rem;
-          margin-left: 0rem;
-          color: var(--global-theme-color) !important;
-          padding-left: 0.5rem;
-          padding-right: 0.5rem;
-          border-style: groove;
-          border: 1px solid var(--global-theme-color);
-          border-radius: 0.5rem;
-          font-weight: bolder;
-          font-size: 0.8em;
+          display: inline-block;
+          background-color: var(--global-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
+            &:hover {
+              text-decoration: none;
+            }
+          }
         }
       }
       .title {
