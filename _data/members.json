@@ -192,7 +192,7 @@
         "completion_year": "2023",
         "current_position": "Research Scientist",
         "current_organization": "Google Deepmind",
-        "personal_link": "#"
+        "personal_link": "https://xiang-deng.github.io/"
       },
       {
         "full_name": "Xiang (Tommy) Yue",
@@ -200,31 +200,31 @@
         "completion_year": "2023",
         "current_position": "Senior Research Scientist",
         "current_organization": "IN.AI",
-        "personal_link": "#"
+        "personal_link": "https://xiangyue9607.github.io/"
       },
       {
-        "full_name": "Zheng Wang",
+        "full_name": "Zhen Wang",
         "former_standing": "PhD",
         "completion_year": "2022",
         "current_position": "Postdoctoral Researcher",
-        "current_organization": "CMU/MBZUAI",
-        "personal_link": "#"
+        "current_organization": "CMU/UCSD/MBZUAI",
+        "personal_link": "https://zhenwang9102.github.io/"
       },
       {
         "full_name": "Ziyu Yao",
         "former_standing": "PhD",
-        "completion_year": "2022",
+        "completion_year": "2021",
         "current_position": "Assistant Professor",
         "current_organization": "George Mason University",
-        "personal_link": "#"
+        "personal_link": "https://ziyuyao.org/"
       },
       {
-        "full_name": "Jie Zhao ",
+        "full_name": "Jie Zhao",
         "former_standing": "PhD",
         "completion_year": "2020",
         "current_position": "Applied Scientist",
         "current_organization": "Amazon",
-        "personal_link": "#"
+        "personal_link": "https://www.linkedin.com/in/zhao-jie"
       }
     ]
   }
