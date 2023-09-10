@@ -5,4 +5,4 @@ title: sponsor
 nav: true
 sponsor: Sponsors
 ---
-We would like to acknowledge and thank all the gifts and funding supports on our research from the sponsors!
+We are grateful for NSF, ARL, NIH, Google, Amazon, Walmart, Cisco, Fujitsu, OSC, and OSU TDAI for supporting our research.
