@@ -20,7 +20,7 @@ We are grateful for NSF, ARL, NIH, Google, Amazon, Walmart, Cisco, Fujitsu, OSC,
 <div class="column"><img decoding="async" src="..\assets\img\fujitsu-1fcokvc.png"></div>
 
 <div class="column"><img decoding="async" src="../assets/img/osc-1t33rfs.png"></div>
-<div class="column"><img decoding="async" src="..\assets\img\osutdai.jpg"></div>
+<div class="column"><img decoding="async" src="..\assets\img\osutdai-new.jpg"></div>
 <p>&nbsp;</p>
 			</div>
 
