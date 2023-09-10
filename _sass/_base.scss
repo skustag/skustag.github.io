@@ -212,6 +212,16 @@ blockquote {
   }
 }
 
+// Carousel 
+
+// Display 100% width if viewing on mobile
+@media screen and (max-width: 650px) {
+  .carousel-inner {
+    width: 100%;
+    display: block;
+  }
+}
+
 
 // News
 
