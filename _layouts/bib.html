@@ -26,9 +26,6 @@
         <abbr class="badge">{{entry.abbr}}</abbr>
       {%- endif -%}
     {%- endif -%}
-      {%- if entry.award -%}
-          <div class="award">{{entry.award}}</div>
-        {%- endif -%}
     </div>
 
   <div id="{{entry.key}}" class="col-sm-8">
@@ -102,6 +99,10 @@
       {% endif %} 
       </div>
     {% endif %}
+
+    {%- if entry.award -%}
+          <div class="awards">{{entry.award}}</div>
+        {%- endif -%}
 
     <div class="links">
     {% if entry.abstract %}

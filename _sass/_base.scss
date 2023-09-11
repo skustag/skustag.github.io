@@ -110,7 +110,7 @@ blockquote {
 	padding-right: 1.5em;
 	padding-left: 1.5em;
 	font-weight: bolder;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 .navbar {
@@ -472,6 +472,7 @@ footer.sticky-bottom {
             }
           }
         }
+        
       }
       .title {
         font-weight: bolder;
@@ -489,10 +490,17 @@ footer.sticky-bottom {
           font-style: normal;
         }
       }
+
+      .awards {
+          font-weight:bold;
+          color: $red-color-dark;
+        }
+
       .links {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
+          margin-left: 0rem;
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;

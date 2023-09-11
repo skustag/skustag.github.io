@@ -1,7 +1,7 @@
 <header>
     
     <!-- Nav Bar -->
-    <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %} py-3">
+    <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
 	
 <!-- 	<a href="https://www.osu.edu/"> <img src="../assets/img/topleft.png" alt="error"></a> -->
 	
@@ -16,7 +16,7 @@
 	     
       
       
-	    <a class="navbar-brand" href="https://www.osu.edu/"> <img src="../assets/img/nlp.png" height="65" class="img-responsive" alt="error"></a>
+	    <a class="navbar-brand" href="/"> <img src="../assets/img/nlp.png" height="65" class="img-responsive" alt="error"></a>
 	    
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav mx-auto flex-nowrap">
@@ -25,7 +25,7 @@
             <a class="nav-link" href="{{ '/' | relative_url }}">
               Home
               {% if page.title == "about" %}
-                <span class="sr-only">(current)</span>
+                <span class="sr-only"> Home </span>
               {% endif %}
             </a>
           </li>
