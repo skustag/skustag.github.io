@@ -216,6 +216,12 @@ blockquote {
   }
 }
 
+@media screen and (max-width: 650px) {
+  .osu-navbar {
+    display: none;
+  }
+}
+
 // Carousel 
 
 .carousel-item {
