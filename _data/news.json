@@ -1,12 +1,36 @@
 {
     "news": [
       {
+        "date": "July 2023",
+        "content": "Glad that <a href=\"https://dki-lab.github.io/LLM-Planner/\">LLM-Planner</a> that uses LLMs for embodied agent planning got accepted to ICCV'23!"
+      },
+      {
+        "date": "July 2023",
+        "content": "Honored that our paper <a href=\"https://arxiv.org/abs/2212.09736\">Pangu</a> received the Outstanding Paper Award from ACL 2023!"
+      },
+      {
+        "date": "May 2023",
+        "content": "6 papers accepted to ACL'23. Congrats to all the students and collaborators!"
+      },
+      {
+        "date": "May 2023",
+        "content": "Grateful to receive support from NIH R01 for our research on AI and biomedicine!"
+      },
+      {
+        "date": "April 2023",
+        "content": "Honored to receive support from President Johnson for our research on large language models!"
+      },
+      {
         "date": "Dec 2022",
         "content": "Congratulations to Zhen Wang for a successful Ph.D. defense and for a postdoc position jointly hosted by UCSD/MBZUAI/CMU."
       },
       {
         "date": "Nov 2022",
         "content": "Congratulations to Xiang Deng for winning the prestigious Presidential Fellowship (Only 1 in CSE in 2022)! “The Presidential Fellowship is the most prestigious award given by the Graduate School. Recipients of this award embody the highest standards of scholarship in the full range of Ohio State’s graduate programs.”"
+      },
+      {
+        "date": "Oct 2022",
+        "content": "Excited that our <a href=\"https://arxiv.org/abs/2204.08109\">ArcaneQA</a> paper won the Outstanding Paper Award at COLING'22 (top 15 out of 2253 submissions)!"
       },
       {
         "date": "June 2022",

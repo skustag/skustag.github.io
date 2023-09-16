@@ -218,6 +218,30 @@ blockquote {
 
 // Carousel 
 
+.carousel-item {
+    h5 {
+      color: rgba(255,255,255);
+      font-size: 2.5rem;
+      /*text-shadow:
+        0.02em 0 black,
+        0 0.02em black,
+        -0.02em 0 black,
+        0 -0.02em black;
+        */
+    }
+    p {
+      color: rgba(255,255,255);
+      font-size: 1.5rem;
+      /*
+      text-shadow:
+        0.02em 0 black,
+        0 0.02em black,
+        -0.02em 0 black,
+        0 -0.02em black;
+        */
+    }
+}
+
 // Display 100% width if viewing on mobile
 @media screen and (max-width: 650px) {
   .carousel-inner {
